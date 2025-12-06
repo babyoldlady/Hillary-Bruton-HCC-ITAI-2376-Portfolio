@@ -52,9 +52,7 @@ This module focused on how modern AI systems extend beyond pattern recognition i
 This module also explained RAG, which enhances model outputs with external knowledge by combining embeddings, vector search, and contextual retrieval. All in, these techniques enable agents to plan, verify, self-correct, and gorund their responses in real-world information. Understanding these reasoning and retrieval methods is essential for developing advanced AI agent systems that are transparent, accurate, and capable of handling complex, multi-step tasks.
 
 **Multi-Agent Collaborative System**
-The purpose of this capstone project was to design and implement a collaborative multi-agent system that demonstrates the full range of AI agent capabilities covered throughout our course. My project, the mu
-
-
+The purpose of this capstone project was to design and implement a collaborative multi-agent system that demonstrates the full range of AI agent capabilities covered throughout our course. My project, Health-Summary-Multi-Agent-System-for-Independent-Baby-Boomers applied reinforcement learning concepts, reasoning models, RAG, and tool integration to solve a real problem. 
 
 ## Featured Projects 
 
