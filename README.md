@@ -56,6 +56,9 @@ The purpose of this capstone project was to design and implement a collaborative
 
 ## Featured Projects 
 
+**Course Summary & Reflections**
+https://github.com/babyoldlady/Hillary-Bruton-HCC-ITAI-2376-Portfolio/blob/main/Course%20Summary%20Reflections.pdf
+
 **Final Project*** 
 "Boomer Health Summary Multi-Agent System" 
 [https://github.com/babyoldlady/Hillary-Bruton-HCC-ITAI-2376-Portfolio/tree/main/Team%20and%20Individual%20Projects](https://github.com/babyoldlady/boomer-health-summary-ITAI-2376)
